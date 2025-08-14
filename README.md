@@ -1,19 +1,7 @@
-# Modern Web Projesi
+# EduMorph
 
-Bu proje, FastAPI backend ve React frontend kullanılarak oluşturulmuş modern bir web uygulamasıdır.
+Bu proje, FastAPI backend ve React frontend kullanılarak oluşturulmuş yapay zeka destekli modern bir web uygulamasıdır.
 
-## Proje Yapısı
-
-```
-.
-├── backend/           # FastAPI backend
-│   └── main.py       # Ana uygulama dosyası
-├── frontend/         # React frontend
-│   ├── src/
-│   │   └── App.js   # Ana React bileşeni
-│   └── package.json # Frontend bağımlılıkları
-└── requirements.txt  # Backend bağımlılıkları
-```
 
 ## Kurulum
 
